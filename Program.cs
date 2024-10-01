@@ -23,6 +23,8 @@ namespace Calculator
             }
             Console.WriteLine("CALCULATOR OPENING...");
             Console.WriteLine("*************************");
+            Console.WriteLine("************************* 2nd change");
+
 
             int flag = 0;
             while (flag==0) 
